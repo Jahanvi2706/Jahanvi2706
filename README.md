@@ -13,10 +13,11 @@
 ### 🚀 About Me
 
 - 🎓 BTech Computer Science student  
-- 💻 Currently interning as a Web Developer at **SH1ELD**
-- 🌱 Learning **MERN Stack**, **TypeScript**, and **Prompt Engineering**
+- 💻 Currently working as a **Web Development Intern** at **SH1ELD**.
+- 🔭 Currently working on a project titled **Sikkim Travel Guidebook** — a digital guide for exploring the beauty of Sikkim.  
+- 🌱 Learning **API development** and **integration** to build more dynamic and interactive web experiences.
 - 🔍 Exploring **real-time web apps**, **AI-powered tools**, and **community-impact projects**
-- ✍️ Content writing volunteer at **InAmigos Foundation**
+- 💬 Ask me about **MERN, Web Development**
 - 🛠️ Love combining **tech + social good** through innovative projects
 
 ---
@@ -47,16 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
 </p>
-
----
-
-### 🧠 Projects & Interests
-
-- 🔭 I’m currently working on **Sikkim-Travel-Guidebook**
-
-- 🌱 I’m currently learning **API Development & Integration**
-
-- 💬 Ask me about **MERN, Web Development**
 
 ---
 

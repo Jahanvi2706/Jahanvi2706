@@ -32,9 +32,13 @@
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jahanvi2706/)
-- 💌 [Email](mailto:jahanvi2706.singh@gmail.com)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahanvi2706/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahanvi2706.singh@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/jahanvi2706singh/) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Jahanvi-174) 
+
+
 
 ---
 
@@ -48,17 +52,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jahanvi2706&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-## ⭐ Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jahanvi2706&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
+### 🔤 Most Used Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahanvi2706&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanvi2706&label=Profile%20views&color=0e75b6&style=flat" alt="jahanvi2706" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahanvi2706" alt="jahanvi2706" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ---
+
+
+## ⭐ Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jahanvi2706&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+---
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jahanvi2706&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+---
+
+
 
 > ✨🌸 *Thank you for stopping by — let's connect, collaborate, and create something extraordinary together.* 💻✨

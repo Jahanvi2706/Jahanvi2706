@@ -48,6 +48,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jahanvi2706&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
+## ⭐ Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jahanvi2706&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanvi2706&label=Profile%20views&color=0e75b6&style=flat" alt="jahanvi2706" /> </p>
 

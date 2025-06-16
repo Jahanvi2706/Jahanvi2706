@@ -1,5 +1,4 @@
-![Banner](https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif)
-
+![Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
 <h1 align="center">Hi there, I'm Jahanvi 👋</h1>
 
@@ -18,7 +17,7 @@
 - 🔭 Currently working on a project titled **Sikkim Travel Guidebook** — a digital guide for exploring the beauty of Sikkim.  
 - 🌱 Learning **API development** and **integration** to build more dynamic and interactive web experiences.
 - 🔍 Exploring **real-time web apps**, **AI-powered tools**, and **community-impact projects**
-- 💬 Ask me about **MERN, Web Development**
+- 💬 Ask me about **MERN, Full Stack Development**
 - 🛠️ Love combining **tech + social good** through innovative projects
 
 ---

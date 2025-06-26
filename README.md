@@ -1,4 +1,4 @@
-![Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![Banner](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 
 <h1 align="center">Hi there, I'm Jahanvi 👋</h1>
 
